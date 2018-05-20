@@ -4,6 +4,8 @@ Follow the [Environment](https://github.com/xuyuji9000/aws-playground#environmen
 
 # Workflows
 
+
+
 ## local docker workflow
 
 1. Build Docker image:
@@ -78,3 +80,12 @@ Follow the [Environment](https://github.com/xuyuji9000/aws-playground#environmen
     ```bash
     eb deploy
     ```
+    
+    USEFUL LINKS:
+     ```bash
+    Getting started on Terraform: https://www.terraform.io/intro/getting-started/install.html
+    ```
+    ```bash
+    Getting Started on Docker: https://runnable.com/docker/install-docker-on-linux
+    ```
+    
